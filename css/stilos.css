@@ -9,7 +9,7 @@ html, body {
 }
 
 .FUENTE {
-  font: 40px "Comic Sans MS", cursive;
+  font: 40px "Proxima nova", cursive;
 }
 
 .btn-flotante {
@@ -43,6 +43,7 @@ html, body {
 .btn-flotante12 {
   display: block;
   background-color: rgba(216, 142, 57, 0.534);
+  font: 20px "Proxima nova";
   width: 500px;
   height: 550px;
   color: #ffffff;
@@ -125,7 +126,7 @@ html, body {
 .redesss {
   background-color: #070707b2;
   color: #fcfafa;
-  font-family: Arial, Helvetica, Sans-serif;
+  font-family: "Proxima nova";
   text-align: center;
   font-size: 15px;
   font-weight: 100;
@@ -137,6 +138,7 @@ html, body {
   font-weight: 700;
   font-weight: 800;
   font-weight: 900;
+  padding-bottom: 29px
 }
 
 .redes0 {
@@ -182,7 +184,7 @@ html, body {
 
 .bebidas {
   background-color: rgba(255, 136, 0, 0.651);
-  font: 20px "Comic Sans MS", cursive;
+  font: 20px "Proxima nova";
   color: #ffffff;
   display: block;
   width: 350px;
@@ -198,7 +200,7 @@ html, body {
 
 .bebidas2 {
   background-color: rgba(255, 136, 0, 0.651);
-  font: 20px "Comic Sans MS", cursive;
+  font: 20px "Proxima nova";
   color: #ffffff;
   display: block;
   width: 250px;
@@ -214,7 +216,7 @@ html, body {
 
 .bebidas3 {
   background-color: rgba(255, 136, 0, 0.651);
-  font: 20px "Comic Sans MS", cursive;
+  font: 20px "Proxima nova";
   color: #ffffff;
   display: block;
   width: 250px;
@@ -230,7 +232,7 @@ html, body {
 
 .papas {
   background-color: #f4d1a800;
-  font: 20px "Comic Sans MS", cursive;
+  font: 20px "Proxima nova";
   color: #000000;
   display: block;
   width: 250px;
@@ -246,7 +248,7 @@ html, body {
 
 .papassN {
   background-color: #f4d1a8;
-  font: 20px "Comic Sans MS", cursive;
+  font: 20px "Proxima nova";
   color: #000000;
   display: block;
   width: 250px;
@@ -261,7 +263,7 @@ html, body {
 
 .papas1 {
   background-color: #F4D0A8;
-  font: 20px "Comic Sans MS", cursive;
+  font: 20px "Proxima nova";
   color: #000000;
   display: block;
   width: 250px;
@@ -277,7 +279,7 @@ html, body {
 
 .tamal {
   background-color: #F4D0A8;
-  font: 20px "Comic Sans MS", cursive;
+  font: 20px "Proxima nova";
   color: #ffffff;
   display: block;
   width: 250px;
@@ -293,7 +295,7 @@ html, body {
 
 .tamalN {
   background-color: #f4d1a8;
-  font: 20px "Comic Sans MS", cursive;
+  font: 20px "Proxima nova";
   color: #000000;
   display: block;
   width: 250px;
@@ -308,7 +310,7 @@ html, body {
 
 .tamal1 {
   background-color: #F4D0A8;
-  font: 20px "Comic Sans MS", cursive;
+  font: 20px "Proxima nova";
   color: #000000;
   display: block;
   width: 250px;
@@ -323,7 +325,7 @@ html, body {
 
 .huma {
   background-color: #F4D0A8;
-  font: 20px "Comic Sans MS", cursive;
+  font: 20px "Proxima nova";
   color: #ffffff;
   display: block;
   width: 250px;
@@ -339,7 +341,7 @@ html, body {
 
 .humaN {
   background-color: #f4d1a8;
-  font: 20px "Comic Sans MS", cursive;
+  font: 20px "Proxima nova";
   color: #000000;
   display: block;
   width: 250px;
@@ -354,7 +356,7 @@ html, body {
 
 .huma1 {
   background-color: #F4D0A8;
-  font: 20px "Comic Sans MS", cursive;
+  font: 20px "Proxima nova";
   color: #000000;
   display: block;
   width: 250px;
@@ -372,6 +374,7 @@ html, body {
 .quienes {
   background-color: #b37247a1;
   color: #ffffff;
+  font: 20px "Proxima nova";
   display: block;
   width: 450px;
   height: 250px;
@@ -387,6 +390,7 @@ html, body {
 .quienes1 {
   background-color: #b37247a1;
   color: #ffffff;
+  font: 20px "Proxima nova";
   display: block;
   width: 450px;
   height: 250px;
@@ -402,6 +406,7 @@ html, body {
 .somos {
   background-color: #b37247a1;
   color: #ffffff;
+  font: 20px "Proxima nova";
   display: block;
   width: 450px;
   height: 200px;
@@ -417,6 +422,7 @@ html, body {
 .sms {
   background-color: #b37247a1;
   color: #ffffff;
+  font: 20px "Proxima nova";
   display: block;
   width: 450px;
   height: 200px;
@@ -433,6 +439,7 @@ html, body {
   background-color: #b37247a1;
   color: #ffffff;
   display: block;
+  font: 20px "Proxima nova";
   width: 450px;
   height: 200px;
   columns: #000000;
@@ -454,6 +461,7 @@ html, body {
   text-decoration: none;
   width: 200px;
   height: 65px;
+  font: 20px "Proxima nova";
 }
 
 .vertical-menu a:hover {
@@ -559,6 +567,7 @@ html, body {
   padding-top: 30px;
   padding-bottom: 20px;
   background-color: rgba(216, 142, 57, 0.534);
+  font: 20px "Proxima nova";
   padding-left: 30px;
 }
 
